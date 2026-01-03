@@ -1,0 +1,58 @@
+en,default,description,file,hash
+"I agree to the storage of my data.","Ich bin mit der Speicherung meiner Daten einverstanden.",,site/modules/WireMagnet/WireMagnet.module.php,3667508d98c0eb836149daa0f9879520
+"Get Free Download","Kostenloser Download",,site/modules/WireMagnet/WireMagnet.module.php,f44410df6a187c7a1699727d7defb8d9
+"Thanks! Please check your email for the download link.","Danke! Bitte prüfen Sie Ihre E-Mail auf den Download-Link.",,site/modules/WireMagnet/WireMagnet.module.php,1f9ccdf18ec439e355ac63a420b63a6d
+"Email Address","E-Mail Adresse",,site/modules/WireMagnet/WireMagnet.module.php,643a860f992333b8600ea264aca7c4fc
+Loading...,Laden...,,site/modules/WireMagnet/WireMagnet.module.php,8524de963f07201e5c086830d370797f
+"Invalid Token","Ungültiges Token",,site/modules/WireMagnet/WireMagnet.module.php,ac5be2f10686e06268f0b20a8a83318b
+"Invalid Input","Ungültige Eingabe",,site/modules/WireMagnet/WireMagnet.module.php,bbf465e8b3b7d807c889238b87123c22
+"Please agree to the data storage.","Bitte stimmen Sie der Datenspeicherung zu.",,site/modules/WireMagnet/WireMagnet.module.php,21b6b2e67cd609c42c3c8f2918bf5ed8
+"Please use a valid email address. Disposable email addresses are not allowed.","Bitte verwenden Sie eine gültige E-Mail-Adresse. Wegwerf-E-Mail-Adressen sind nicht erlaubt.",,site/modules/WireMagnet/WireMagnet.module.php,99dd315e57c8399b5d86d61f414b18bd
+"You have already requested this download in the last 24 hours. Please check your inbox.","Sie haben diesen Download in den letzten 24 Stunden bereits angefordert. Bitte prüfen Sie Ihren Posteingang.",,site/modules/WireMagnet/WireMagnet.module.php,5bacd6c2cf3ba2578a2d68ff8f8b6bf7
+"Error sending email.","Fehler beim Senden einer E-Mail.",,site/modules/WireMagnet/WireMagnet.module.php,4d3e0cc1fcd7583c61dc3e066519cd84
+"Your Download is ready","Ihr Download ist fertig",,site/modules/WireMagnet/WireMagnet.module.php,63c48120ed995bd26cc69802f314fbf5
+"Please find your requested file attached to this email.","Im Anhang zu dieser E-Mail finden Sie die angeforderte Datei.",,site/modules/WireMagnet/WireMagnet.module.php,0d70dd53c93940c2b6090c1d991f3386
+"Click here to download: {link}","Klicken Sie hier zum Herunterladen: {Link}",,site/modules/WireMagnet/WireMagnet.module.php,cfcad197d58a61dcbfe750ba37b8b475
+"Please confirm your email address","Bitte bestätigen Sie Ihre E-Mail Adresse",,site/modules/WireMagnet/WireMagnet.module.php,fdb4db9fad09fb7844943f645db276da
+"Please click the following link to confirm your email address and receive your download:","Bitte klicken Sie auf den folgenden Link, um Ihre E-Mail-Adresse zu bestätigen und Ihren Download zu erhalten:",,site/modules/WireMagnet/WireMagnet.module.php,bcebe32655a7d064e6da1190cedb042b
+"General Settings","Allgemeine Einstellungen",,site/modules/WireMagnet/WireMagnet.module.php,52f4393e1b52ba63e27310ca92ba098c
+"Sender Email Address",Absender-E-Mail-Adresse,,site/modules/WireMagnet/WireMagnet.module.php,1cf17732a91f53ee1c69c9ac21297473
+"Anonymize IP Address (GDPR)","Anonymisierung der IP-Adresse (GDPR)",,site/modules/WireMagnet/WireMagnet.module.php,714a26a60be1ffe39274cfd19043364b
+"If checked, the IP address will be anonymized before storage (IPv4: last octet masked, IPv6: last 64 bits masked).","Wenn diese Option aktiviert ist, wird die IP-Adresse vor der Speicherung anonymisiert (IPv4: letztes Oktett maskiert, IPv6: letzte 64 Bits maskiert).",,site/modules/WireMagnet/WireMagnet.module.php,3811282fe9c0d0ba99ee967c3f26f403
+"Blocked Email Domains","Gesperrte E-Mail-Domains",,site/modules/WireMagnet/WireMagnet.module.php,a4fcd859019078cfe1d9322d732582fd
+"Enter one domain per line. Emails from these domains will be rejected.","Geben Sie eine Domäne pro Zeile ein. E-Mails von diesen Domains werden abgelehnt.",,site/modules/WireMagnet/WireMagnet.module.php,99ca68db3b56baa70ba3c258c05ebf81
+"Form Settings",Formular-Einstellungen,,site/modules/WireMagnet/WireMagnet.module.php,949ae6c7c4990d2efc2520c4d861e3fb
+"Privacy Consent Text (GDPR)","Datenschutz-Zustimmungstext (GDPR)",,site/modules/WireMagnet/WireMagnet.module.php,fdb6d008c0739f6cb2840086a3f6b347
+"Label for the mandatory consent checkbox. You can use HTML for links.","Etikett für das Kontrollkästchen für die obligatorische Zustimmung. Sie können HTML für Links verwenden.",,site/modules/WireMagnet/WireMagnet.module.php,f50a0c63b8512f1f1e084dbe90a4e7ef
+"Form Button Text",Formular-Schaltflächen-Text,,site/modules/WireMagnet/WireMagnet.module.php,45e6f00806214df644c8e9e4f51d2fc0
+"The text displayed on the submit button.","Der Text, der auf der Schaltfläche ""Senden"" angezeigt wird.",,site/modules/WireMagnet/WireMagnet.module.php,20568d0e9fa757c10e5bdbd38bb8327d
+"Custom Thank You Page","Benutzerdefinierte Dankeschön-Seite",,site/modules/WireMagnet/WireMagnet.module.php,e3b264605ed2edbb7705ab5af3b938b5
+"Select a page to redirect to after successful submission. If empty, a success message is shown inline.","Wählen Sie eine Seite, zu der Sie nach erfolgreicher Übermittlung weitergeleitet werden. Wenn leer, wird eine Erfolgsmeldung inline angezeigt.",,site/modules/WireMagnet/WireMagnet.module.php,b32f6bc1f4af3cd76cd35697a99ace01
+"Load Alpine.js","Alpine.js laden",,site/modules/WireMagnet/WireMagnet.module.php,af85e265a0073310408ceb8f5f393858
+"Check this if you want the module to load Alpine.js from a CDN. Uncheck if you already include Alpine.js in your site template.","Aktivieren Sie diese Option, wenn Sie möchten, dass das Modul Alpine.js von einem CDN lädt. Deaktivieren Sie das Kontrollkästchen, wenn Sie Alpine.js bereits in Ihre Website-Vorlage integriert haben.",,site/modules/WireMagnet/WireMagnet.module.php,8f4b2b9ab7f928f18d443c2b9b35a3a9
+"Disable Default CSS","Standard-CSS deaktivieren",,site/modules/WireMagnet/WireMagnet.module.php,d2faff44a7d22a3728a6ed1610e14739
+"If checked, the module will not load the default CSS styles for the form.","Wenn diese Option aktiviert ist, lädt das Modul nicht die Standard-CSS-Stile für das Formular.",,site/modules/WireMagnet/WireMagnet.module.php,bdf1aecb7526b58be49bd7c3ea0fdb42
+"Download Email Settings","E-Mail-Einstellungen herunterladen",,site/modules/WireMagnet/WireMagnet.module.php,eb1e1ff831e196466f72d50621a6dfbf
+"Download Email Subject","Download E-Mail Betreff",,site/modules/WireMagnet/WireMagnet.module.php,ac5f0264ef6290280d4b30724929ecc2
+"Download Email Body (Link)","E-Mail-Text herunterladen (Link)",,site/modules/WireMagnet/WireMagnet.module.php,789c79c36539c0342099b71eca54757c
+"Text for the email containing the download link. Use {link} as placeholder for the URL.","Text für die E-Mail, die den Download-Link enthält. Verwenden Sie {link} als Platzhalter für die URL.",,site/modules/WireMagnet/WireMagnet.module.php,5668673616be49bef2598529aacdf417
+"Attach File to Email","Datei an eine E-Mail anhängen",,site/modules/WireMagnet/WireMagnet.module.php,91e82c9d6f09a27cababb9c7cb3f0fc6
+"If enabled, the file will be attached directly to the email instead of sending a download link. Warning: Large files may be rejected by email providers.","Wenn diese Option aktiviert ist, wird die Datei direkt an die E-Mail angehängt, anstatt einen Download-Link zu senden. Achtung! Große Dateien können von E-Mail-Anbietern abgelehnt werden.",,site/modules/WireMagnet/WireMagnet.module.php,62d825069a418e791e8040817df380ea
+"Download Email Body (Attachment)","E-Mail-Text herunterladen (Anhang)",,site/modules/WireMagnet/WireMagnet.module.php,7b579dd8084299995e720adb23205abc
+"Text for the email when the file is attached directly.","Text für die E-Mail, wenn die Datei direkt angehängt wird.",,site/modules/WireMagnet/WireMagnet.module.php,55528ea8636f9cc6bddf97736080c05d
+"Double Opt-In (DOI) Settings","Double Opt-In (DOI) Einstellungen",,site/modules/WireMagnet/WireMagnet.module.php,4d0e4fddd83527f37ee40c63d59793eb
+"Enable Double Opt-In (DOI)","Double Opt-In aktivieren (DOI)",,site/modules/WireMagnet/WireMagnet.module.php,871bae4d642fd9dc251b167f64f6b6ee
+"If enabled, users must confirm their email address before receiving the download link.","Wenn diese Option aktiviert ist, müssen die Benutzer ihre E-Mail-Adresse bestätigen, bevor sie den Download-Link erhalten.",,site/modules/WireMagnet/WireMagnet.module.php,97941cb497e1f7aa5b2816f963525c63
+"Confirmation Email Subject (DOI)","Betreff der Bestätigungs-E-Mail (DOI)",,site/modules/WireMagnet/WireMagnet.module.php,90352fb5506f57e546393a49af7bd1c4
+"Confirmation Email Body (DOI)","E-Mail-Bestätigung (DOI)",,site/modules/WireMagnet/WireMagnet.module.php,861e2ce87e4dd7dd00b1cf23d5c023fc
+"Text for the confirmation email. Use {link} as placeholder for the confirmation URL.","Text für die Bestätigungs-E-Mail. Verwenden Sie {link} als Platzhalter für die Bestätigungs-URL.",,site/modules/WireMagnet/WireMagnet.module.php,f4d250f6ca1092084b256f101750d9af
+"Custom DOI Confirmation Page","Benutzerdefinierte DOI-Bestätigungsseite",,site/modules/WireMagnet/WireMagnet.module.php,ed6952592aabfac271c59c380f27d269
+"Select a page to redirect to after successful email confirmation (DOI). If empty, redirects to homepage.","Wählen Sie eine Seite aus, zu der nach erfolgreicher E-Mail-Bestätigung weitergeleitet werden soll (DOI). Wenn leer, wird zur Homepage weitergeleitet.",,site/modules/WireMagnet/WireMagnet.module.php,c121d1c52473ef4e4c0a12ef286f3683
+"Captured Leads","Erfasste Leads",,site/modules/WireMagnet/ProcessWireMagnet.module.php,dadda52f194fb21e4aa8fa778ce5c9f7
+"Export CSV","CSV exportieren",,site/modules/WireMagnet/ProcessWireMagnet.module.php,c04f1e4841a6af78088d6ccf6f3a8a76
+ID,ID,,site/modules/WireMagnet/ProcessWireMagnet.module.php,b718adec73e04ce3ec720dd11a06a308
+Confirmed,Bestätigt,,site/modules/WireMagnet/ProcessWireMagnet.module.php,205bc73c4ab4286a1fb9d4c18322777c
+IP,IP,,site/modules/WireMagnet/ProcessWireMagnet.module.php,a12a3079e14ced46e69ba52b8a90b21a
+Downloads,Herunterladen,,site/modules/WireMagnet/ProcessWireMagnet.module.php,c20c35ef53bf1b70789ce94e66800147
+Yes,Ja,,site/modules/WireMagnet/ProcessWireMagnet.module.php,93cba07454f06a4a960172bbd6e2a435
+"No leads found to export.","Keine Hinweise für den Export gefunden.",,site/modules/WireMagnet/ProcessWireMagnet.module.php,5b47ef687d4942425ca0a3da15a69d69

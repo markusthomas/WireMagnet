@@ -1,0 +1,14 @@
+<?php
+namespace ProcessWire;
+
+$info = [
+    'title' => 'WireMagnet',
+    'summary' => 'Manages lead magnets, captures emails, and provides secure temporary download links.',
+    'version' => '0.0.2',
+    'author' => 'Markus Thomas',
+    'icon' => 'magnet',
+    'requires' => 'ProcessWire>=3.0.200',
+    'autoload' => true, // Necessary for URL Hooks
+    'singular' => true,
+    'installs' => 'ProcessWireMagnet',
+];
