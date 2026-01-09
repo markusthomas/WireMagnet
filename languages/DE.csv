@@ -1,7 +1,7 @@
 en,default,description,file,hash
 "I agree to the storage of my data.","Ich bin mit der Speicherung meiner Daten einverstanden.",,site/modules/WireMagnet/WireMagnet.module.php,3667508d98c0eb836149daa0f9879520
 "Get Free Download","Kostenloser Download",,site/modules/WireMagnet/WireMagnet.module.php,f44410df6a187c7a1699727d7defb8d9
-"Thanks! Please check your email for the download link.","Danke! Bitte prüfen Sie Ihre E-Mail auf den Download-Link.",,site/modules/WireMagnet/WireMagnet.module.php,1f9ccdf18ec439e355ac63a420b63a6d
+"Thanks! Please check your email for the download link.","Danke! Bitte prüfen Sie Ihr E-Mailpostfach.",,site/modules/WireMagnet/WireMagnet.module.php,1f9ccdf18ec439e355ac63a420b63a6d
 "Email Address","E-Mail Adresse",,site/modules/WireMagnet/WireMagnet.module.php,643a860f992333b8600ea264aca7c4fc
 Loading...,Laden...,,site/modules/WireMagnet/WireMagnet.module.php,8524de963f07201e5c086830d370797f
 "Invalid Token","Ungültiges Token",,site/modules/WireMagnet/WireMagnet.module.php,ac5be2f10686e06268f0b20a8a83318b
@@ -12,7 +12,7 @@ Loading...,Laden...,,site/modules/WireMagnet/WireMagnet.module.php,8524de963f072
 "Error sending email.","Fehler beim Senden einer E-Mail.",,site/modules/WireMagnet/WireMagnet.module.php,4d3e0cc1fcd7583c61dc3e066519cd84
 "Your Download is ready","Ihr Download ist fertig",,site/modules/WireMagnet/WireMagnet.module.php,63c48120ed995bd26cc69802f314fbf5
 "Please find your requested file attached to this email.","Im Anhang zu dieser E-Mail finden Sie die angeforderte Datei.",,site/modules/WireMagnet/WireMagnet.module.php,0d70dd53c93940c2b6090c1d991f3386
-"Click here to download: {link}","Klicken Sie hier zum Herunterladen: {Link}",,site/modules/WireMagnet/WireMagnet.module.php,cfcad197d58a61dcbfe750ba37b8b475
+"Click here to download: {link}","Klicken Sie hier zum Herunterladen: {link}",,site/modules/WireMagnet/WireMagnet.module.php,cfcad197d58a61dcbfe750ba37b8b475
 "Please confirm your email address","Bitte bestätigen Sie Ihre E-Mail Adresse",,site/modules/WireMagnet/WireMagnet.module.php,fdb4db9fad09fb7844943f645db276da
 "Please click the following link to confirm your email address and receive your download:","Bitte klicken Sie auf den folgenden Link, um Ihre E-Mail-Adresse zu bestätigen und Ihren Download zu erhalten:",,site/modules/WireMagnet/WireMagnet.module.php,bcebe32655a7d064e6da1190cedb042b
 "General Settings","Allgemeine Einstellungen",,site/modules/WireMagnet/WireMagnet.module.php,52f4393e1b52ba63e27310ca92ba098c
@@ -23,10 +23,10 @@ Loading...,Laden...,,site/modules/WireMagnet/WireMagnet.module.php,8524de963f072
 "Enter one domain per line. Emails from these domains will be rejected.","Geben Sie eine Domäne pro Zeile ein. E-Mails von diesen Domains werden abgelehnt.",,site/modules/WireMagnet/WireMagnet.module.php,99ca68db3b56baa70ba3c258c05ebf81
 "Form Settings",Formular-Einstellungen,,site/modules/WireMagnet/WireMagnet.module.php,949ae6c7c4990d2efc2520c4d861e3fb
 "Privacy Consent Text (GDPR)","Datenschutz-Zustimmungstext (GDPR)",,site/modules/WireMagnet/WireMagnet.module.php,fdb6d008c0739f6cb2840086a3f6b347
-"Label for the mandatory consent checkbox. You can use HTML for links.","Etikett für das Kontrollkästchen für die obligatorische Zustimmung. Sie können HTML für Links verwenden.",,site/modules/WireMagnet/WireMagnet.module.php,f50a0c63b8512f1f1e084dbe90a4e7ef
+"Label for the mandatory consent checkbox. You can use HTML for links.","Text für das Kontrollkästchen für die obligatorische Zustimmung. Sie können HTML für Links verwenden.",,site/modules/WireMagnet/WireMagnet.module.php,f50a0c63b8512f1f1e084dbe90a4e7ef
 "Form Button Text",Formular-Schaltflächen-Text,,site/modules/WireMagnet/WireMagnet.module.php,45e6f00806214df644c8e9e4f51d2fc0
 "The text displayed on the submit button.","Der Text, der auf der Schaltfläche ""Senden"" angezeigt wird.",,site/modules/WireMagnet/WireMagnet.module.php,20568d0e9fa757c10e5bdbd38bb8327d
-"Custom Thank You Page","Benutzerdefinierte Dankeschön-Seite",,site/modules/WireMagnet/WireMagnet.module.php,e3b264605ed2edbb7705ab5af3b938b5
+"Custom Thank You Page","Benutzerdefinierte Vielen Dank-Seite",,site/modules/WireMagnet/WireMagnet.module.php,e3b264605ed2edbb7705ab5af3b938b5
 "Select a page to redirect to after successful submission. If empty, a success message is shown inline.","Wählen Sie eine Seite, zu der Sie nach erfolgreicher Übermittlung weitergeleitet werden. Wenn leer, wird eine Erfolgsmeldung inline angezeigt.",,site/modules/WireMagnet/WireMagnet.module.php,b32f6bc1f4af3cd76cd35697a99ace01
 "Load Alpine.js","Alpine.js laden",,site/modules/WireMagnet/WireMagnet.module.php,af85e265a0073310408ceb8f5f393858
 "Check this if you want the module to load Alpine.js from a CDN. Uncheck if you already include Alpine.js in your site template.","Aktivieren Sie diese Option, wenn Sie möchten, dass das Modul Alpine.js von einem CDN lädt. Deaktivieren Sie das Kontrollkästchen, wenn Sie Alpine.js bereits in Ihre Website-Vorlage integriert haben.",,site/modules/WireMagnet/WireMagnet.module.php,8f4b2b9ab7f928f18d443c2b9b35a3a9
