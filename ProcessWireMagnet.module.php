@@ -14,7 +14,7 @@ class ProcessWireMagnet extends Process
         return [
             'title' => 'Manage Magnet Leads',
             'summary' => 'View and export captured leads.',
-            'version' => '0.0.2',
+            'version' => '1.0.0',
             'author' => 'Markus Thomas',
             'permission' => 'lead-magnet-view',
             'page' => [

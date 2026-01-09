@@ -4,7 +4,7 @@ namespace ProcessWire;
 $info = [
     'title' => 'WireMagnet',
     'summary' => 'Manages lead magnets, captures emails, and provides secure temporary download links.',
-    'version' => '0.0.2',
+    'version' => '1.0.0',
     'author' => 'Markus Thomas',
     'icon' => 'magnet',
     'requires' => 'ProcessWire>=3.0.200',

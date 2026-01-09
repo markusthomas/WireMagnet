@@ -81,4 +81,6 @@ The module automatically creates two tables:
 - `leads_archive`: Stores the history of all leads.
 - `lead_tokens`: Stores active download tokens and their expiry times.
 
-## Notes
+## Author
+
+Markus Thomas
