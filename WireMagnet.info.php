@@ -2,7 +2,7 @@
 namespace ProcessWire;
 
 $info = [
-    'title' => 'WireMagnet',
+    'title' => 'WireMagnet - Secure Lead Magnet & File Delivery Manager',
     'summary' => 'Manages lead magnets, captures emails, and provides secure temporary download links.',
     'href' => 'https://github.com/markusthomas/WireMagnet',
     'version' => '1.0.0',
